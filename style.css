@@ -1,0 +1,114 @@
+
+.instagram{
+
+color: black;
+font-size: 23px;
+
+
+}
+.navbar{
+
+
+	cursor: pointer;
+	position: sticky;
+}
+.navbottom{
+
+font-size: 23px;
+
+
+
+}
+@media (min-width: 569px)
+{
+
+
+.navbar1{
+
+display: none;
+
+}
+
+
+
+
+}
+
+
+@media (max-width: 568px)
+{
+
+
+.navbar1{
+
+display: ;
+
+}
+.bignav{
+display: none;
+
+	
+}
+.sidebar{
+
+display: none;
+
+}
+
+
+
+}
+
+
+
+
+.pic{
+border-radius: 50%;
+margin: 10px;
+margin-left: 15px;
+
+
+
+
+
+
+}
+.anchor{
+color: black;
+
+
+
+}
+.fontcard i {
+font-size: 25px;
+margin-left: 10px;
+
+
+
+}
+.media img{
+border-radius: 50%; 
+
+
+
+}
+
+.bignavbaricon{
+
+margin-right: 5%;
+}
+
+.bignavbaricon a{
+
+margin: 3px;
+
+}
+.bignavbaricon a i{
+
+font-size: 30px;
+color: black;
+
+
+}
+
+
